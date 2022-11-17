@@ -18,5 +18,6 @@ Its a good example of learning react and creating something production ready!
 
 ## Social Media
 
-->  linkedin.com/in/sagar-gaud-66b0b9205
+->  https://linkedin.com/in/sagar-gaud-66b0b9205
+
 ->  https://github.com/SAGARGAUD01
